@@ -13,9 +13,9 @@
 
 ### 📫 How to reach me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhamraz201@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muhammed_humraz_11?igsh=aG00YW05YTFmajE4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhd-humraz-283a5435b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamraz201@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_humraz_11?igsh=aG00YW05YTFmajE4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humraz-283a5435b)
 
 ---
 ## 🏆 GitHub Achievements
@@ -56,7 +56,7 @@
 
 <h4 align="center"> Profile Views</h4>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/mhd-humraz/count.svg" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/muhammedrazal5/count.svg" alt="Profile Views" />
 </p>
 ---
 
@@ -65,10 +65,10 @@
 <img align="right" alt="Coding" width="320" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/Cat-animation.gif">
 
 
-![Humraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhd-humraz&show_icons=true&theme=tokyonight)
+![Humraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedrazal5&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-humraz&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedrazal5&layout=compact&theme=tokyonight)
 
 
 
@@ -77,9 +77,7 @@
  
 ---
 
-## 🐍 My Contributions
 
-![Snake animation](https://raw.githubusercontent.com/mhd-Humraz/snk/output/github-contribution-grid-snake.svg)
 
 
 <!---
